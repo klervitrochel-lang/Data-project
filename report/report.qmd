@@ -51,7 +51,7 @@ format:
 
 jupyter: python3
 abstract: |
-  Bonjour
+  Bonjour 2
 execute: 
   warning: false
   # Note: echo setting is controlled per-format above (HTML, PDF, DOCX)
