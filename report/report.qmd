@@ -51,7 +51,7 @@ format:
 
 jupyter: python3
 abstract: |
-  This is the abstract of the report. It should be a short summary of the project, the data, the analysis and the results. It should be concise and to the point. It should not be longer than 250 words.
+  Bonjour
 execute: 
   warning: false
   # Note: echo setting is controlled per-format above (HTML, PDF, DOCX)
